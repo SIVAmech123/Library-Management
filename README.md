@@ -6,7 +6,7 @@ To create Library Management System software that will meet the needs of the app
 and help them to registering and buy the book for the Library, modification in database and
 cancellation for the registered project.
 ### OVERALL DESCRIPTION:
-The Library Management System is an integrated system that has four modules as part of 
+The Library Management System is an integrated system that has four modules as part of
 it. The four modules are
 #### Registration for Membership:
 In this module, the user can select the books to register for the library,Modification in the book
@@ -22,18 +22,18 @@ In this module the user can cancel their name which is registered for the Book.
 ### SOFTWARE REQUIRMENTS:
 Star UML
 ### UML Diagrams:
-USE CASE DIAGRAM
-![Screenshot 2025-05-16 211806](https://github.com/user-attachments/assets/2ad3ef19-94e8-45b4-9cc8-9eb004f6cde7)
-CLASS DIAGRAM
-![Screenshot 2025-05-16 211840](https://github.com/user-attachments/assets/3cc0dc10-ef8b-4f67-a920-40bb343d5e9b)
-PACKAGE DIAGRAM
-![Screenshot 2025-05-16 211917](https://github.com/user-attachments/assets/6e715075-28c5-4e1e-9aae-020423fe77e0)
-SEQUENCE DIAGRAM
-![Screenshot 2025-05-16 211943](https://github.com/user-attachments/assets/00434e2e-554b-480a-bda5-5314101b8b30)
-ACTIVITY DIAGRAM
-![Screenshot 2025-05-16 212008](https://github.com/user-attachments/assets/fbec8992-44e1-4005-b7dd-7ac2c4d509a6)
-COMMUNICATION DIAGRAM
-![Screenshot 2025-05-16 212037](https://github.com/user-attachments/assets/62c7e7d9-5fa2-475c-8be6-c7732f41ad66)
+# usecase diagram
+![Screenshot 2025-05-16 214902](https://github.com/user-attachments/assets/c0877a1b-dcf0-4ad7-ae61-dcbbaf2ba9ba)
+# class diagram
+![Screenshot 2025-05-16 214935](https://github.com/user-attachments/assets/bad02745-5119-4e4b-b701-8df0ec348b4f)
+# activity diagram
+![Screenshot 2025-05-16 215129](https://github.com/user-attachments/assets/9fa9dc70-0ad6-4172-8387-bfff640714ee)
+# sequance diagram
+![Screenshot 2025-05-16 215204](https://github.com/user-attachments/assets/b1abea9d-a3ce-4198-bca3-e199b8a32cbe)
+# communication diagram
+![Screenshot 2025-05-16 215256](https://github.com/user-attachments/assets/af1f1c71-946a-483a-8ad8-d22dc39694ab)
+# package diagram
+![Screenshot 2025-05-16 215328](https://github.com/user-attachments/assets/762410e3-80fe-4c8e-940e-5009de9e8df7)
 
 ### RESULT:
 Thus the Library management system project was executed and the output was verified.
